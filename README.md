@@ -1,4 +1,3 @@
-# cs192docgen
 ## CS 192 ME for Creational Design Patterns.
 
 ## Document Generator
@@ -11,27 +10,27 @@ The program employs the Abstract Factory design pattern. There are two subfolder
 
 documentgenerator contains interface classes for document creation:
 
-*Document
-*DocumentFactory
-*Element
-*ItemList
-*Table
+* Document
+* DocumentFactory
+* Element
+* ItemList
+* Table
 
 There is another folder in there named “latex” that contains concrete classes which extend from the above classes:
 
-*LatexDocument
-*LatexDocumentFactory
-*LatexElement
-*LatexItemList
-*LatexTable
+* LatexDocument
+* LatexDocumentFactory
+* LatexElement
+* LatexItemList
+* LatexTable
 
 The concrete classes in the latex folder are used for creating LaTeX docs. You are to create a similar folder named “html” in documentgenerator and you will fill this folder with concrete classes that extend the interfaces in documentgenerator, this time for creating HTML docs. The classes should have the same naming scheme as in the Latex package, just replace “Latex” with “HTML.” So for the html folder you'll be writing the classes:
 
-*HTMLDocument
-*HTMLDocumentFactory
-*HTMLElement
-*HTMLItemList
-*HTMLTable
+* HTMLDocument
+* HTMLDocumentFactory
+* HTMLElement
+* HTMLItemList
+* HTMLTable
 
 ## II. application1
 
