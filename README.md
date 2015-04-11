@@ -1,4 +1,4 @@
-## CS 192 ME for Creational Design Patterns.
+## CS 192 ME for Creational Design Patterns
 
 ## Document Generator
 
@@ -6,7 +6,7 @@ Attached here is a Java program that generates documents. It can currently gener
 
 The program employs the Abstract Factory design pattern. There are two subfolders inside: application1 and documentgenerator. Let's explore each folder and what you'll do with each:
 
-## II. documentgenerator
+## I. documentgenerator
 
 documentgenerator contains interface classes for document creation:
 
