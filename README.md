@@ -20,7 +20,6 @@ There is another folder in there named “latex” that contains concrete classe
 
 * LatexDocument
 * LatexDocumentFactory
-* LatexElement
 * LatexItemList
 * LatexTable
 
@@ -28,7 +27,6 @@ The concrete classes in the latex folder are used for creating LaTeX docs. You a
 
 * HTMLDocument
 * HTMLDocumentFactory
-* HTMLElement
 * HTMLItemList
 * HTMLTable
 
@@ -45,7 +43,7 @@ Where do the Singleton and Prototype Design Patterns come in? You must follow th
 
 ## Deliverables:
 
-1. Your source code in a zip folder named “<Surname>CS192ME.zip”
+1. The entire cs192 folder / all your source code in a zip folder named “<Surname>CS192ME.zip”
 
 2. The html doc that your application2 main class outputted. It should be named “test.html”
 
